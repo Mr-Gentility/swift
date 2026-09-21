@@ -1,0 +1,5 @@
+[04-Jul-2026 01:50:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/swiftrus/public_html/dashboard/database.php:29
+Stack trace:
+#0 /home/swiftrus/public_html/dashboard/logo-image/image_logo.php(24): require_once()
+#1 {main}
+  thrown in /home/swiftrus/public_html/dashboard/database.php on line 29

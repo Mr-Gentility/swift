@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 28 Jun 2022 10:11:57 at https://osircourier.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://osircourier.com -O1 "C:\My Web Sites\osircourier" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:12:00	Warning: 	Moved Permanently for https://osircourier.com/
+10:12:00	Warning: 	File has moved from https://osircourier.com/ to https://osircourier.com/app/
+10:12:40	Error: 	"Not Found" (404) at link https://osircourier.com/app/fonts/fontawesome-webfont-1.eot (from https://osircourier.com/app/css/font-awesome.css)
+10:12:41	Error: 	"Not Found" (404) at link https://osircourier.com/app/css/owl.video.play.png (from https://osircourier.com/app/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 45 seconds : 80 links scanned, 76 files written (6123205 bytes overall) [4864709 bytes received at 108104 bytes/sec], 1891411 bytes transferred using HTTP compression in 29 files, ratio 30%, 8.0 requests per connection
+(2 errors, 2 warnings, 0 messages)
